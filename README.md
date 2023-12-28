@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next js , React Native and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://shazidmorshed.netlify.app/](https://shazidmorshed.netlify.app/)
+- 👨‍💻 Some of my personal projects are available at [https://shazidmorshed.netlify.app/](https://shazidmorshed.netlify.app/)
 
 - 💬 Ask me about **react , next js and mern stack**
 
