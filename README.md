@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shazid Morshed</h1>
 <h3 align="center">A passionate full-Stack developer from Bangladesh</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazidmorshed14&label=Profile%20views&color=0e75b6&style=flat" alt="shazidmorshed14" /> </p>
- <img align="center" alt="coding" width="100%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" styles="margin:10px 0px" />
+ <img align="center" alt="coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" styles="margin:10px 0px" />
 
 
 
