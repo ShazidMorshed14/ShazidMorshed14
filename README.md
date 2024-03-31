@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SazzShop**
 
-- 🌱 I’m currently learning **Next js , React Native and Flutter**
+- 🌱 I’m currently learning **Next js and Flutter**
 
 - 👨‍💻 Some of my personal projects are available at [https://shazidmorshed.netlify.app/](https://shazidmorshed.netlify.app/)
 
