@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shazidmorshed14" alt="shazidmorshed14" style="margin:10px"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shazidmorshed14" alt="shazidmorshed14" style="margin:10px;width:100%"/></a> </p>
 
 - 🔭 I’m currently working on **SazzShop**
 
