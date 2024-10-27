@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shazid Morshed</h1>
 <h3 align="center">A passionate full-Stack developer from Bangladesh</h3>
- <p align="left"> <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="shazidmorshed14" style="width:100%" /> </p>
+ <p align="center"> <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="shazidmorshed14" style="width:100%" /> </p>
 <!--  <img align="center" alt="coding" width="100%" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" styles="margin:10px 0px" /> -->
 
 
